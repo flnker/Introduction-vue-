@@ -1,4 +1,3 @@
-# Homepage of Me, Check the [site][site]
 
 ## Build Setup
 
